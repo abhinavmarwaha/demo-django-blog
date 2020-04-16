@@ -2,7 +2,7 @@
 
 This blog is made on top of django framework.
 
-#Features:
+## Features:
 
 - Feed.xml
 - Sitemap.xml
